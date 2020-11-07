@@ -27,7 +27,7 @@
     <a href="https://github.com/commsdevcpp/cgiscripting/issues">
     <img src="https://img.shields.io/github/issues/commsdevcpp/cgiscripting.svg?style=flat-square"></a>
     <a href="https://github.com/commsdevcpp/cgiscripting/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/commsdevcpp/cgiscripting.svg?style=flat-square"></a>
+    <img src="https://img.shields.io/github/license/commsdevcpp/cgiscripting?style=flat-square"></a>
   </p>
 </p>
 
