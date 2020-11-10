@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "nicholasbus",
+      "name": "Nicholas",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/37635777?v=4",
+      "profile": "https://github.com/nicholasbus",
+      "contributions": [
+        "maintenance"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "cgiscripting",
+  "projectOwner": "commsdevcpp",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

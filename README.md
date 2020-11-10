@@ -32,6 +32,10 @@
     <img src="https://img.shields.io/github/issues/commsdevcpp/cgiscripting.svg?style=flat-square"></a>
     <a href="https://github.com/commsdevcpp/cgiscripting/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/commsdevcpp/cgiscripting?style=flat-square"></a>
+    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    <a href="#contributors-">
+    <img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="All Contributors"></a>
+    <!-- ALL-CONTRIBUTORS-BADGE:END -->
   </p>
 </p>
 
@@ -48,7 +52,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors-)
 
 ## About The Project
 
@@ -151,8 +155,21 @@ To contact owners about a feature request or bug, make an issue.
 
 Project Link: [https://github.com/commsdevcpp/cgiscripting](https://github.com/commsdevcpp/cgiscripting)
 
-## Acknowledgements
+## Contributors ✨
 
-If you contribute to our project, we'll put you here to recognize you.
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
-*You can be the first one on this list!*
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/nicholasbus"><img src="https://avatars3.githubusercontent.com/u/37635777?v=4" width="100px;" alt=""/><br /><sub><b>Nicholas</b></sub></a><br /><a href="#maintenance-nicholasbus" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
