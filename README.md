@@ -51,7 +51,7 @@
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [Contributors](#contributors-)
 
 ## About The Project
 
@@ -153,12 +153,6 @@ To contact owners about a feature request or bug, make an issue.
 **To contact the owners about a security vulnerability, send a message to [cppcgilibsecurity@googlegroups.com](mailto:cppcgilibsecurity@googlegroups.com), and be as descriptive as possible.** Be sure to include your GitHub username or other email contact.
 
 Project Link: [https://github.com/commsdevcpp/cgiscripting](https://github.com/commsdevcpp/cgiscripting)
-
-## Acknowledgements
-
-If you contribute to our project, we'll put you here to recognize you.
-
-*You can be the first one on this list!*
 
 ## Contributors ✨
 
