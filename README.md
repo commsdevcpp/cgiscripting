@@ -1,7 +1,4 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <a href="https://github.com/commsdevcpp/cgiscripting">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
@@ -35,6 +32,10 @@
     <img src="https://img.shields.io/github/issues/commsdevcpp/cgiscripting.svg?style=flat-square"></a>
     <a href="https://github.com/commsdevcpp/cgiscripting/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/commsdevcpp/cgiscripting?style=flat-square"></a>
+    <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+    <a href="#contributors-">
+    <img src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" alt="All Contributors"></a>
+    <!-- ALL-CONTRIBUTORS-BADGE:END -->
   </p>
 </p>
 
