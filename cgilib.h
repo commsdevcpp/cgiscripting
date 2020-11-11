@@ -23,6 +23,99 @@ public:
     
   }
 
+  //// METAVARIABLES ////
+  std::string get_auth_type() {
+    const char* envvar = std::getenv("AUTH_TYPE");
+
+    if(envvar == nullptr) { return ""; }
+    return envvar;
+  }
+
+  int get_request_content_length() {
+    const char* envvar = std::getenv("CONTENT_LENGTH");
+
+    if(envvar == nullptr || envvar == "") return 0;
+    return std::atoi(envvar);
+  }
+
+  std::string get_request_content_type() {
+    const char* envvar = std::getenv("CONTENT_TYPE");
+
+    if(envvar == nullptr) return "";
+    return envvar;
+  }
+
+  std::string gateway_interface() {
+    return std::getenv("GATEWAY_INTERFACE");
+  }
+
+  std::string get_subresource_uri() {
+    const char* envvar = std::getenv("PATH_INFO")
+
+    if(envvar == nullptr) return "";
+    return envvar;
+  }
+
+  std::string get_subresource_wouldbe_path() {
+    const char* envvar = std::getenv("PATH_TRANSLATED");
+
+    if(envvar == nullptr) return "";
+    return envvar;
+  }
+
+  std::string get_query_string() {
+    return std::getenv("QUERY_STRING");
+  }
+
+  std::string get_client_address() {
+    return std::getenv("REMOTE_ADDR");
+  }
+
+  std::string get_client_hostname() {
+    const char* envvar = std::getenv("REMOTE_HOST");
+
+    if(envvar == nullptr) return std::getenv("REMOTE_ADDR");
+    return envvar;
+  }
+
+  std::string get_connection_identity() {
+    const char* envvar = std::getenv("REMOTE_IDENT");
+
+    if(envvar == nullptr) return "";
+    return envvar;
+  }
+
+  std::string get_client_identity() {
+    const char* envvar = std::getenv("REMOTE_USER");
+
+    if(envvar == nullptr) return "";
+    return envvar;
+  }
+
+  std::string get_request_method() {
+    return std::getenv("REQUEST_METHOD");
+  }
+
+  std::string get_script_name() {
+    return std::getenv("SCRIPT_NAME");
+  }
+
+  std::string get_server_name() {
+    return std::getenv("SERVER_NAME");
+  }
+
+  int get_server_port() {
+    return std::atoi(std::getenv("SERVER_PORT"));
+  }
+
+  std::string get_server_protocol() {
+    return std::getenv("SERVER_PROTOCOL");
+  }
+
+  std::string get_server_software() {
+    return std::getenv("SERVER_SOFTWARE");
+  }
+
   //// RESPONSE HEADERS ////
 
   // Content-Type
